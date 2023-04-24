@@ -1,0 +1,8 @@
+[package]
+name = "rs_nes"
+version = "0.1.0"
+authors=["robertnich"]
+edition = "2018"
+
+[dependencies]
+lazy_static = "1.4.0"
